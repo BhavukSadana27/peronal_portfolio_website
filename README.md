@@ -1,4 +1,5 @@
 Personal Portfolio Website
+
 COMPANY : CODTECH IT SOLUTIONS
 
 NAME : BHAVUK SADANA
@@ -12,6 +13,7 @@ DURATION : 6 WEEKS
 MENTOR : NEELA SANTHOSH KUMAR
 
 DESCRIPTION :
+
 Personal Portfolio Website The Personal Portfolio Website is a modern, responsive, and visually engaging web application developed to showcase an individual’s professional profile, technical skills, projects, achievements, and contact information. Designed with simplicity and elegance in mind, this site serves as a digital resume and interactive platform for self-promotion. Built using HTML, CSS the website reflects a clean and professional design tailored to capture the attention of recruiters, clients, or collaborators.
 
 Purpose and Objective The primary goal of this portfolio website is to create an impressive online presence. In today’s digital-first world, a personal website is more than just a résumé—it's a dynamic platform to highlight creativity, technical skills, problem-solving abilities, and project experience. This website serves as a centralized hub that gives visitors insights into the developer’s background, current work, and capabilities.
