@@ -45,3 +45,4 @@ Animations: Framer Motion
 Version Control: Git and GitHub
 
 Conclusion The Personal Portfolio Website is not just a showcase of technical skills—it is a personal branding platform. With a clean design, functional layout, and engaging user experience, it enables the developer to leave a lasting impression on visitors. It is an essential tool for job applications, freelance opportunities, and networking, and can easily be updated as the individual progresses in their career.
+![image](https://github.com/user-attachments/assets/aabb7804-ff18-4a23-b9de-681cee455250)
